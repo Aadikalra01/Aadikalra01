@@ -1,14 +1,21 @@
-<h1 align="center">👋Hello there! I'm Aadi Kalra.</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1200&pause=200&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=👋+Hello+there!+I'm+Aadi+Kalra." />
+</h1>
 
-###
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;GenAI;Open+Source+Contributor" />
+</p>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="mailto:aadiansh112233@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
 </div>
 
-###
 
 <h3 align="center"><b><u>Skills & Interests:</u></b></h3>
 
@@ -106,13 +113,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aadikalra01.Aadikalra01&"  />
 </div>
 
-###
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cyan"  />
-</div>
-
-###
 <p align="center">
   ──────────────── ✨ ──────────────── <br>
   <b>Thank You for Visiting My Profile!</b> <br>
@@ -120,3 +121,11 @@
   <i>Have a great day 🚀</i> <br>
   ──────────────── ✨ ────────────────
 </p>
+
+###
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cyan"  />
+</div>
+
+###
